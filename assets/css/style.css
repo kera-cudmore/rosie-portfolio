@@ -93,14 +93,6 @@ h4 {
     display: table;
 }
 
-/*
-.section-column {
-    display: table-cell;
-    padding: 0 30px 30px;
-    float: none;
-}
-*/
-
 .history-heading,
 .section-heading {
     font-family: "Exo", sans-serif;
@@ -147,7 +139,7 @@ header {
     color: #fff;
 }
 
-/*
+
 .list-inline-item:not(:last-child) {
     margin: 0;
 }
@@ -155,7 +147,7 @@ header {
 .menucontainer {
     font-size: 0;
 }
-*/
+
 
 
 #nav {
