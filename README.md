@@ -1,6 +1,6 @@
-# HTML and CSS Essentials Porfolio Project
+# Rosie Portfolio
 
-The HTML and CSS Essentials Porfolio Project was created as part of a series of lessons from the Code Institute. The lessons initially covered HTML and CSS, before returning and adding JavaScript and the Google Maps API.
+The Rosie Porfolio Project was created as part of a series of lessons from the Code Institute. The lessons initially covered HTML and CSS, before returning and adding JavaScript with the Google Maps API.
 
 Add site responsive screenshot here
 
@@ -14,34 +14,33 @@ Visit the deployed site here.
 
 ## CONTENTS
 
-* [User Experience](#User-Experience)
-  * [User Stories](#User-Stories)
+* [User Experience](#user-experience)
+  * [User Stories](#user-stories)
 
-* [Design](#Design)
-  * [Colour Scheme](#Colour-Scheme)
-  * [Typography](#Typography)
-  * [Imagery](#Imagery)
-  * [Wireframes](#Wireframes)
-  * [Features](#Features)
-  * [Accessibility](#Accessibility)
+* [Design](#design)
+  * [Colour Scheme](#colour-scheme)
+  * [Typography](#typography)
+  * [Imagery](#imagery)
+  * [Wireframes](#wireframes)
+  * [Features](#features)
+  * [Accessibility](#accessibility)
 
-* [Technologies Used](#Technologies-Used)
-  * [Languages Used](#Languages-Used)
-  * [Frameworks, Libraries & Programs Used](#Frameworks,-Libraries-&-Programs-Used)
+* [Technologies Used](#technologies-used)
+  * [Languages Used](#languages-used)
+  * [Frameworks, Libraries & Programs Used](#frameworks-libraries--programs-used)
 
-* [Deployment & Local Development](#Deployment-&-Local-Development)
-  * [Deployment](#Deployment)
-  * [Local Development](#Local-Development)
-    * [How to Fork](#How-to-Fork)
-    * [How to Clone](#How-to-Clone)
+* [Deployment & Local Development](#deployment--local-development)
+  * [Deployment](#deployment)
+  * [Local Development](#local-development)
+    * [How to Fork](#how-to-fork)
+    * [How to Clone](#how-to-clone)
 
-* [Testing](#Testing)
+* [Testing](#testing)
   
-* [Credits](#Credits)
-  * [Code Used](#Code-Used)
-  * [Content](#Content)
-  * [Media](#Media)
-  * [Acknowledgments](#Acknowledgments)
+* [Credits](#credits)
+  * [Code Used](#code-used)
+  * [Content](#content)
+  * [Media](#media)
 
 - - -
 
