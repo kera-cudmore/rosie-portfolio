@@ -4,12 +4,12 @@ The Rosie Porfolio Project was created as part of a series of lessons from the C
 
 Add site responsive screenshot here
 
-Visit the deployed site here.
+Visit the deployed site here: [Rosie Portfolio]()
 
-![GitHub last commit]()
-![GitHub contributors]()
-![GitHub language count]()
-![GitHub top language]()
+![GitHub last commit](https://img.shields.io/github/last-commit/kera-cudmore/rosie-portfolio?style=for-the-badge)
+![GitHub contributors](https://img.shields.io/github/contributors/kera-cudmore/rosie-portfolio?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/kera-cudmore/rosie-portfolio?style=for-the-badge)
+![GitHub top language](https://img.shields.io/github/languages/top/kera-cudmore/rosie-portfolio?style=for-the-badge)
 ![W3C Validator]()
 
 ## CONTENTS
