@@ -46,13 +46,15 @@ Visit the deployed site here: [Rosie Portfolio]()
 
 ## User Experience
 
+This site was created for Rosie, a fictional web developer. Rosie needs a portfolio site to be able to share her work experience, skills, CV and provide a contact form for people who would like to work with Rosie.
+
 ### User Stories
 
-#### First Time Visitor Goals
-
-#### Returning Visitor Goals
-
-#### Frequent Visitor Goals
+* As a user, I want to be able to find out more information about who Rosie is.
+* As a user, I want to be able to see Rosie's work experience.
+* As a user, I want to be able to view, and download Rosie's CV.
+* As a user, I want to be able to contact Rosie directly from her portfolio.
+* As a user, I want to be able to navigate to Rosie's social media.
 
 - - -
 
