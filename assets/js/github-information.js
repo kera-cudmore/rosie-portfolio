@@ -13,7 +13,7 @@ function userInformationHTML(user) {
         </div>
         <p>Followers: ${user.followers} - Following ${user.following} <br> Repos: ${user.public_repos}</p>
         </div>`;
-};
+}
 
 function repoInformationHTML(repos) {
     if (repos.length == 0) {
@@ -71,7 +71,7 @@ function fetchGitHubInformation(event) {
                 } else {
                     console.log(errorResponse);
                     $("#gh-user-data").html(
-                        `<h2>Error: ${errorResponse.responseJSON.message}</h2>`)
+                        `<h2>Error: ${errorResponse.responseJSON.message}</h2>`);
                 }
             });
 }
