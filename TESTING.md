@@ -6,24 +6,6 @@ Visit the deployed site here: [Rosie Portfolio](https://kera-cudmore.github.io/r
 
 ---
 
-## CONTENTS
-
-* [Automated Testing](#automated-testing)
-  * [HTML & CSS Validation](#html--css-validation)
-  * [JavaScript Validation](#javascript-validation)
-  * [Lighthouse Testing](#lighthouse-testing)
-    * [Desktop](#desktop)
-    * [Mobile](#mobile)
-  * [WAVE Accessibility Testing](#wave-accessibility-testing)
-* [Manual Testing](#manual-testing)
-  * [User Stories Testing](#user-stories-testing)
-  * [Full Testing](#full-testing)
-* [Bugs](#bugs)
-  * [Solved Bugs](#solved-bugs)
-  * [Known Bugs](#known-bugs)
-
----
-
 ## Automated Testing
 
 ### HTML & CSS Validation
