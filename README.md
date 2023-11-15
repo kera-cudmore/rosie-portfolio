@@ -139,6 +139,8 @@ Google Dev Tools - To troubleshoot and test features, solve issues with responsi
 
 [Shields.io](https://shields.io/) To add badges to the README
 
+[Leaflet.js](https://leafletjs.com/examples/quick-start/) For the map on the interests page.
+
 - - -
 
 ## Deployment & Local Development
