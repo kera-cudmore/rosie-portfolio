@@ -1,26 +1,13 @@
+// Map from Leaflet.js
+// https://leafletjs.com/examples/quick-start/
 
-function initMap() {
-  const map = new google.maps.Map(document.getElementById("map"), {
-      zoom: 3,
-      center: {
-          lat: 46.619261,
-          lng: -33.134766
-      }
-  });
-  
-  const locations = [
-    { lat: 40.785091, lng: -73.968285 },
-    { lat: 41.084045, lng: -73.874245 },
-    { lat: 40.754932, lng: -73.948016 },
-  ];
+var map = L.map('map').setView([40.785, -73.96], 9);
 
-  const markers = locations.map(function (location, i) {
-    const labels = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
-    return new google.maps.Marker({
-      position: location,
-      label: labels[i % labels.length],
-    });
-  });
-  
-  const markerCluster = new markerClusterer.MarkerClusterer({map, markers});
-}
+L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    maxZoom: 19,
+    attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+}).addTo(map);
+
+var marker = L.marker([40.7, -73.96]).addTo(map);
+var marker = L.marker([41.0, -73.87]).addTo(map);
+var marker = L.marker([40.7, -73.94]).addTo(map);
