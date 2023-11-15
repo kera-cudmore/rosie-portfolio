@@ -10,7 +10,8 @@ Visit the deployed site here: [Rosie Portfolio](https://kera-cudmore.github.io/r
 ![GitHub contributors](https://img.shields.io/github/contributors/kera-cudmore/rosie-portfolio?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/kera-cudmore/rosie-portfolio?style=for-the-badge)
 ![GitHub top language](https://img.shields.io/github/languages/top/kera-cudmore/rosie-portfolio?style=for-the-badge)
-![W3C Validation](https://img.shields.io/w3c-validation/default?targetUrl=https%3A%2F%2Fkera-cudmore.github.io%2Frosie-portfolio%2F)
+![W3C Validation](https://img.shields.io/w3c-validation/default?targetUrl=https%3A%2F%2Fkera-cudmore.github.io%2Frosie-portfolio%2F&style=for-the-badge)
+
 
 ## CONTENTS
 
