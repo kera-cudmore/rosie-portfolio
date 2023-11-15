@@ -88,9 +88,13 @@ Wireframes links/images to go here
 
 ### Features
 
-The website is comprised of …
+The website is comprised of 6 pages: The home page, resume page, contact page, interests page, github page and 404 page. 
 
 * All Pages on the website have:
+
+  - Top navigation bar. This enables users to easily navigate through the website regardless of the page they are on. The top navigation bar also allows users to download a copy of Rosie's CV.
+
+  - Footer. The footer provides a small about bio, along with another link to download Rosie's CV and also Rosie's Social links.
 
 * Future Implementations.
 
@@ -150,7 +154,7 @@ The site is deployed using GitHub Pages.
 To fork the repository:
 
 1. Log in (or sign up) to Github.
-2. Go to the repository for this project, [HTML and CSS Essentials Porfolio Project](https://github.com/kera-cudmore/html-and-css-essentials-portfolio-project).
+2. Go to the repository for this project, [HTML and CSS Essentials Porfolio Project](https://github.com/kera-cudmore/rosie-portfolio).
 3. Click the Fork button in the top right corner.
 
 #### How to Clone
@@ -158,7 +162,7 @@ To fork the repository:
 To clone the repository:
 
 1. Log in (or sign up) to GitHub.
-2. Go to the repository for this project, [HTML and CSS Essentials Porfolio Project](https://github.com/kera-cudmore/html-and-css-essentials-portfolio-project).
+2. Go to the repository for this project, [HTML and CSS Essentials Porfolio Project](https://github.com/kera-cudmore/rosie-portfolio).
 3. Click on the code button, select whether you would like to clone with HTTPS, SSH or GitHub CLI and copy the link shown.
 4. Open the terminal in your code editor and change the current working directory to the location you want to use for the cloned directory.
 5. Type 'git clone' into the terminal and then paste the link you copied in step 3. Press enter.
@@ -174,7 +178,7 @@ Please see [testing.md](testing.md) for all testing performed
 
 ### Code Used
 
-This project was created as part of a series of lessons from the Code Institute.
+This project was created as part of a series of lessons from the Code Institute. Small adjustments have been made by me upon completing the course to add some polish to this project.
 
 ### Content
 
