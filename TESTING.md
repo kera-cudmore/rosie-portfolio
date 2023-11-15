@@ -1,8 +1,8 @@
 # Rosie Portfolio
 
-Responsive site image to go here
+![Rosies Portfolio Responsive Image](documentation/responsive.png)
 
-link to the deployed site to go here
+Visit the deployed site here: [Rosie Portfolio](https://kera-cudmore.github.io/rosie-portfolio/)
 
 ---
 
