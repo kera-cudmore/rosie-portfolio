@@ -93,8 +93,16 @@ The website is comprised of 6 pages: The home page, resume page, contact page, i
 * All Pages on the website have:
 
   - Top navigation bar. This enables users to easily navigate through the website regardless of the page they are on. The top navigation bar also allows users to download a copy of Rosie's CV.
+    
+    ![Feature: Top navigation](documentation/top-nav.png)
 
   - Footer. The footer provides a small about bio, along with another link to download Rosie's CV and also Rosie's Social links.
+    
+    ![Feature: Footer](documentation/footer.png)
+
+  - Favicon. Each page's tab contains a favicon.
+
+    ![Feature: Favicon](documentation/favicon-feature.png)
 
 * Future Implementations.
 
