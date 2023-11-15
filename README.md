@@ -155,7 +155,17 @@ Google Dev Tools - To troubleshoot and test features, solve issues with responsi
 
 ### Deployment
 
-The site is deployed using GitHub Pages.
+The site is deployed using GitHub Pages: [Rosies Portfolio](https://kera-cudmore.github.io/rosie-portfolio/)
+
+To Deploy the site using GitHub Pages:
+
+1. Login (or signup) to Github.
+2. Go to the repository for this project, kera-cudmore/TheQuizArms.
+3. Click the settings button.
+4. Select pages in the left hand navigation menu.
+5. From the source dropdown select main branch and press save.
+6. The site has now been deployed, please note that this process may take a few minutes before the site goes live.
+
 
 ### Local Development
 
