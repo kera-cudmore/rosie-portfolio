@@ -1,10 +1,10 @@
 # Rosie Portfolio
 
-The Rosie Porfolio Project was created as part of a series of lessons from the Code Institute. The lessons initially covered HTML and CSS, before returning and adding JavaScript with the Google Maps API.
+The Rosie Porfolio Project was created as part of a series of lessons from the Code Institute. The lessons initially covered HTML and CSS, before returning and adding JavaScript with the Google Maps API. This has now been updated to use Leaflet.js for the mapping.
 
-Add site responsive screenshot here
+![Rosies Portfolio Responsive Image](documentation/responsive.png)
 
-Visit the deployed site here: [Rosie Portfolio]()
+Visit the deployed site here: [Rosie Portfolio](https://kera-cudmore.github.io/rosie-portfolio/)
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/kera-cudmore/rosie-portfolio?style=for-the-badge)
 ![GitHub contributors](https://img.shields.io/github/contributors/kera-cudmore/rosie-portfolio?style=for-the-badge)
