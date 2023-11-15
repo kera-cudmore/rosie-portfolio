@@ -5,8 +5,6 @@ br {
   line-height: 1.6em;
 }
 
-
-
 ol,
 ul {
   list-style: none;
@@ -50,7 +48,6 @@ img {
   border: 0;
   max-width: 100%;
 }
-
 
 
 /* page structure */
@@ -157,6 +154,7 @@ img {
   font-family: "Courier New", Courier, "Lucida Typewriter", monospace;
   font-size: 0.9em;
 }
+
 
 /* input field */
 
