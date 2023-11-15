@@ -12,38 +12,7 @@ Visit the deployed site here: [Rosie Portfolio](https://kera-cudmore.github.io/r
 ![GitHub top language](https://img.shields.io/github/languages/top/kera-cudmore/rosie-portfolio?style=for-the-badge)
 ![W3C Validation](https://img.shields.io/w3c-validation/default?targetUrl=https%3A%2F%2Fkera-cudmore.github.io%2Frosie-portfolio%2F&style=for-the-badge)
 
-
-## CONTENTS
-
-* [User Experience](#user-experience)
-  * [User Stories](#user-stories)
-
-* [Design](#design)
-  * [Colour Scheme](#colour-scheme)
-  * [Typography](#typography)
-  * [Imagery](#imagery)
-  * [Wireframes](#wireframes)
-  * [Features](#features)
-  * [Accessibility](#accessibility)
-
-* [Technologies Used](#technologies-used)
-  * [Languages Used](#languages-used)
-  * [Frameworks, Libraries & Programs Used](#frameworks-libraries--programs-used)
-
-* [Deployment & Local Development](#deployment--local-development)
-  * [Deployment](#deployment)
-  * [Local Development](#local-development)
-    * [How to Fork](#how-to-fork)
-    * [How to Clone](#how-to-clone)
-
-* [Testing](#testing)
-  
-* [Credits](#credits)
-  * [Code Used](#code-used)
-  * [Content](#content)
-  * [Media](#media)
-
-- - -
+--- 
 
 ## User Experience
 
