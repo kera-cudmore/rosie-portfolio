@@ -32,7 +32,21 @@ JS Hint was used to validate the JavaScript on the site.
 
 #### Desktop
 
+* [Home page](documentation/testing/lighthouse/desk-index.png)
+* [Resume page](documentation/testing/lighthouse/desk-resume.png)
+* [Contact page](documentation/testing/lighthouse/desk-contact.png)
+* [Interests page](documentation/testing/lighthouse/desk-interests.png)
+* [GitHub page](documentation/testing/lighthouse/desk-github.png)
+* [404 page](documentation/testing/lighthouse/desk-404.png)
+
 #### Mobile
+
+* [Home page](documentation/testing/lighthouse/mobile-index.html)
+* [Resume page](documentation/testing/lighthouse/mobile-resume.png)
+* [Contact page](documentation/testing/lighthouse/mobile-contact.png)
+* [Interests page](documentation/testing/lighthouse/mobile-interests.png)
+* [GitHub page](documentation/testing/lighthouse/mobile-github.png)
+* [404 page](documentation/testing/lighthouse/mobile-404.png)
 
 ### WAVE Accessibility Testing
 
