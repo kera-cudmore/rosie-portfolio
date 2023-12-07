@@ -24,8 +24,9 @@ The [W3C validator](https://validator.w3.org/) was used to validate all HTML and
 JS Hint was used to validate the JavaScript on the site.
 
 * [github-information.js](documentation/testing/js-github-info-validation.png) - Passed 
-* [maps.js]() - 
-* [sendemail.js]() - 
+* [maps.js](documentation/testing/js-map-validation.png) - warnings for undefined variable `L` and unused variable `marker`. I have left these as is for now as I have taken the code from the example directly from the Leaflet website.
+
+* [sendemail.js](documentation/testing/js-send-email-validation.png) - Warnings for undefined variable `emailjs` and unused variable `sendMail`.
 
 ### Lighthouse Testing
 
