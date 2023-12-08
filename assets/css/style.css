@@ -242,15 +242,15 @@ footer {
 }
 
 .social-links li a i {
-    width: 32px;
-    height: 32px;
-    padding: 12px 0;
+    width: 52px;
+    height: 52px;
+    padding: 22px 0;
     border-radius: 50%;
-    font-size: 13px;
+    font-size: 30px;
     line-height: 7px;
     text-align: center;
-    color: var(--white-2);
-    background: #8f8f8f;
+    color: var(--dark-grey);
+    background: var(--white);
     transition: all 0.35s ease-in-out;
     -moz-transition: all 0.35s ease-in-out;
     -webkit-transition: all 0.35s ease-in-out;
