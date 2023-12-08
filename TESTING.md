@@ -68,6 +68,33 @@ JS Hint was used to validate the JavaScript on the site.
 
 | Feature | Expected Outcome | Testing Performed | Result | Pass or Fail |
 | :--- | :--- | :--- | :--- | :--- |
+| `NAV` |||||
+| Image | When clicked user is directed to the home page | Click the image | Redirected to the home page | Pass |
+| Home link | When clicked user is directed to the home page | Click the link | Redirected to the home page | Pass |
+| Resume link | When clicked user is directed to the resume page | Click the link | Redirected to the resume page | Pass |
+| Contact link | When clicked user is directed to the contact page | Click the link | Redirected to the contact page | Pass |
+| Interests link | When clicked user is directed to the interests page | Click the link | Redirected to the interests page | Pass |
+| GitHub link | When clicked user is directed to the GitHub page | Click the link | Redirected to the GitHub page | Pass|
+| Download link | When clicked Rosies CV is opened to allow the user to download | Click the link | Redirected to the CV download | Pass |
+||||||
+| `FOOTER` |||||
+| Download CV icon | When clicked Rosies CV is opened to allow the user to download | Click the icon | Redirected to the CV download | Pass |
+| Social icons | When the user clicks on a social icon, they are redirected to the social page in a new tab | Click the icon | Redirected to the social page in a new tab| Pass |
+||||||
+| `CONTACT PAGE` |||||
+| Contact form | Prevent submission of an empty form | If a user doesn't fill out the form and hits the send button, they should be prompted to fill out the form | Clicked send button with an empty form, a tooltip displated asking for an input in the first empty field, form didn't submit | Pass |
+| | Input validation for fields, form doesn't submit | If a user inputs a value that doens't match the input type, they will be prompted to enter the correct information | Enter a word in the email field, on submission a tooltip prompted to enter a valid email address and the form wasn't submitted | Pass |
+| | Form completed correctly | | | |
+||||||
+| `INTERESTS PAGE` |||||
+| Map | User can interact with the map, zooming in and out | Used buttons to zoom in and out | Map zooms in and out | Pass |
+| Links | Each link opens in a new tab | Click links | Link opens in new tab | Pass |
+||||||
+| `GITHUB PAGE` |||||
+| Search input | When the user types a username, the users GitHub is displayed with a list of their repos | Search my GitHub username | My profile image and list of repos is displayed| Pass |
+| Repo Links | When a repo link is clicked, the repo page is opened in a new tab | Click the link | Redirected to the repo page in a new tab | Pass |
+||||||
+
 
 ---
 
