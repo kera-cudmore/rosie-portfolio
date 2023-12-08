@@ -93,21 +93,3 @@ JS Hint was used to validate the JavaScript on the site.
 | `GITHUB PAGE` |||||
 | Search input | When the user types a username, the users GitHub is displayed with a list of their repos | Search my GitHub username | My profile image and list of repos is displayed| Pass |
 | Repo Links | When a repo link is clicked, the repo page is opened in a new tab | Click the link | Redirected to the repo page in a new tab | Pass |
-||||||
-
-
----
-
-## Bugs
-
-### Solved Bugs
-
-| Bug No. | Bug | How I Solved | Evidence |
-| :--- |:--- |:--- | :---: |
-||||
-
-### Known Bugs
-
-| Bug No. | Bug | Evidence |
-| :--- | :--- | :--- |
-||||
