@@ -48,8 +48,6 @@ JS Hint was used to validate the JavaScript on the site.
 * [GitHub page](documentation/testing/lighthouse/mobile-github.png)
 * [404 page](documentation/testing/lighthouse/mobile-404.png)
 
-### WAVE Accessibility Testing
-
 ---
 
 ## Manual Testing
