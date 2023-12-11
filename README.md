@@ -95,17 +95,19 @@ HTML, CSS, Javascript
 
 ### Frameworks, Libraries & Programs Used
 
-Balsamiq - Used to create wireframes.
+[Balsamiq](https://balsamiq.com/) - Used to create wireframes.
 
-Git - For version control.
+[Git](https://git-scm.com/) - For version control.
 
-Github - To save and store the files for the website.
+[Github](https://github.com/) - To save and store the files for the website.
 
-Google Fonts - To import the fonts used on the website.
+[Bootstrap Version 4.2.1](https://getbootstrap.com/docs/4.2/getting-started/introduction/) - CSS framework for building responsive, mobile-first sites.
 
-Font Awesome - For the iconography on the website.
+[Google Fonts](https://fonts.google.com/) - To import the fonts used on the website.
 
-Google Dev Tools - To troubleshoot and test features, solve issues with responsiveness and styling.
+[Font Awesome Version 4.7.0](https://fontawesome.com/) - For the iconography on the website.
+
+[Google Dev Tools](https://developer.chrome.com/docs/devtools) - To troubleshoot and test features, solve issues with responsiveness and styling.
 
 [Tiny PNG](https://tinypng.com/) To compress images.
 
@@ -117,7 +119,7 @@ Google Dev Tools - To troubleshoot and test features, solve issues with responsi
 
 [Shields.io](https://shields.io/) To add badges to the README
 
-[Leaflet.js](https://leafletjs.com/examples/quick-start/) For the map on the interests page.
+[Leaflet.js Version 1.9.4](https://leafletjs.com/examples/quick-start/) For the map on the interests page.
 
 - - -
 
