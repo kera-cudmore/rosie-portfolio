@@ -1,7 +1,7 @@
 name: HTML5Validator
-  on: push
-  uses: Cyb3r-Jak3/html5validator-action@v7.2.0
+on: push
+uses: Cyb3r-Jak3/html5validator-action@v7.2.0
   
-  with:
-    root: /
-    css: true
+with:
+  root: /
+  css: true
